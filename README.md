@@ -4,7 +4,7 @@ A discord bot with a main function of finding the anime source of a picture sent
 
 ## Progress
   - Can command the bot to do certain things
-    - Show the all the commands of the bot to help users know what to do with it
+    - Show all the commands of the bot to help users know what to do with it
     - Turn image sent by user into color histogram 
     - Show a the rank of the top 5 most mentioned anime by the users in the server
     
