@@ -5,7 +5,7 @@ A discord bot with a main function of finding the anime source of a picture sent
 ## Progress
   - Can command the bot to do certain things
     - Show all the commands of the bot to help users know what to do with it
-    - Turn image sent by user into color histogram 
+    - Turn image sent by user into color histogram (in txt format)
     - Show a the rank of the top 5 most mentioned anime by the users in the server
     
   - C API wraper: wrap the functions made in C to be callable in Python
